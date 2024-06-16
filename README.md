@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Rajlaxmi2002/Song_popularity_prediction
+https://github.com/Atharva2526/Song_popularity_prediction_app/
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
